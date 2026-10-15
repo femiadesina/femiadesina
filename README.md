@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @xenongospel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey, I'm Femi. I run [Omnixenon](https://github.com/Omnixenon) with [Seun](https://github.com/seunadesina): we get an idea, build it properly, and put it out there.
 
-<!---
-xenongospel/xenongospel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [League of Building](https://lobb.dev) lets you theorycraft League of Legends builds in the browser.
+- [read-back](https://github.com/Omnixenon/read-back) makes your coding agent tell you what it heard before it builds.
+
+[femi@omnixenon.com](mailto:femi@omnixenon.com)
